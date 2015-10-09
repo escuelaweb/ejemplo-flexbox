@@ -10,10 +10,10 @@
 		<!-- Includes metas -->
 		<meta charset="UTF-8">
 	</head>
-	<body>
+	<body class="bg3">
 		
 		<!-- Main Block -->
-		<div class="main bg3">
+		<div class="main flex">
 			
 			<!-- Nav -->
 			<nav>

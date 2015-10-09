@@ -9,3 +9,6 @@
 .bg4{ background: #107AA3; }
 .bg5{ background: #07658A; }
 .bg6{ background: #EEEEEE; }
+
+/* Estilos generales */
+.flex { display: flex; }

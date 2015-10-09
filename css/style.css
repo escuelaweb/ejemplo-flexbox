@@ -10,5 +10,80 @@
 .bg5{ background: #07658A; }
 .bg6{ background: #EEEEEE; }
 
-/* Estilos generales */
+.padding1{ padding: 1em; }
+.margin1{ margin: 1em; }
+.margin2{ margin: 2em; }
+
+.text-center{ text-align: center; }
+.text-right{ text-align: right; }
+.text-left{ text-align: left; }
+
+.position-absolute{ position: absolute; }
+.position-relaative{ position: relative; }
+.position-fixed{ position: fixed; }
+
+/* Estilos flex */
 .flex { display: flex; }
+
+.flex-wrap{ flex-wrap: nowrap; }
+.flex-nowrap{ flex-wrap: wrap; }
+.flex-wrap-reverse{ flex-wrap: wrap-reverse; }
+
+/* Position */
+.flex-row { flex-direction: row; }
+.flex-row-reverse { flex-direction: row-reverse; }
+.flex-column { flex-direction: column; }
+.flex-column-reverse { flex-direction: column-reverse; }
+
+/* Justify */
+.flex-start { justify-content: flex-start; }
+.flex-end { justify-content: flex-end; }
+.flex-center { justify-content: center; }
+.flex-space-between { justify-content: space-between; }
+.flex-space-around { justify-content: space-around; }
+
+/* Align */
+.flex-align-auto { align-self: auto; }
+.flex-align-start { align-self: flex-start; }
+.flex-align-end { align-self: flex-end; }
+.flex-align-center { align-self: center; }
+.flex-align-baseline { align-self: baseline; }
+.flex-align-stretch { align-self: stretch; }
+
+/* Align Items */
+.flex-items-start { align-items: flex-start; }
+.flex-items-end { align-items: flex-end; }
+.flex-items-center { align-items: center; }
+.flex-items-baseline { align-items: baseline; }
+.flex-items-stretch { align-items: stretch; }
+
+.main{
+	width: 30%;
+	margin: 0 auto;
+	font-family: "Folks";
+}
+
+header h1{
+	font-size: 34pt;
+}
+
+header h1, header h3{
+	color: #EEEEEE;
+	margin-top: -1em;
+}
+
+nav a{
+	text-decoration: none;
+	color: #EEEEEE;
+	font-size: 16pt;
+	border-radius: 10pt;
+	width: 120px;
+}
+
+.logo{
+	width: 95%;
+}
+
+footer{
+	padding: 0px 30px;
+}

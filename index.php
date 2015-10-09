@@ -13,34 +13,31 @@
 	<body class="bg3">
 		
 		<!-- Main Block -->
-		<div class="main flex">
-			
-			<!-- Nav -->
-			<nav>
-				<a href="#">Introducción</a>
-			</nav>
-			<!-- Finished Nav -->
-			
+		<div class="main text-center">
+
 			<!-- Header -->
-			<header>
-				<img src="images/macbook.png" />
-				<h3>Mac Store</h3>
+			<header class="margin1">
+				<img src="images/macbook.png" class="logo" />
+				<h1>Mac Store</h1>
+				<h3>innovative technology</h3>
 			</header>
 			<!-- Finished Header -->
 
-			<!-- Content Block -->
-			<section class="content">
-			</section>
-			<!-- Finish Content Block -->
-			
-			<!-- Footer Block -->
-			<footer>
-				Test used flex-box <a href="#">Intro</a>
-			</footer>
-			<!-- Finish Footer Block -->
+			<!-- Nav -->
+			<nav class="flex margin2">
+				<a href="#" class="bg1 margin1 padding1">Website</a>
+				<a href="#" class="bg1 margin1 padding1">Store</a>
+			</nav>
+			<!-- Finished Nav -->
 
 		</div>
 		<!-- Finish Main Block -->
+
+		<!-- Footer Block -->
+		<footer class="flex flex-end flex-items-end">
+			<p>Test used flex-box <a href="#">Intro</a><p>
+		</footer>
+		<!-- Finish Footer Block -->
 
 	</body>
 </html>

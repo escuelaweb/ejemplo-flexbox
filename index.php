@@ -5,7 +5,7 @@
 		<title>Dashboard</title>
 
 		<!-- Includes styles -->
-		<link rel="stylesheet" type="text/css" href="css/estilo.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
 
 		<!-- Includes metas -->
 		<meta charset="UTF-8">

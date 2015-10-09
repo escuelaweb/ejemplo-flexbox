@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<!-- Titulo -->
-		<title>Dashboard</title>
+		<title>Intro - Web</title>
 
 		<!-- Includes styles -->
 		<link rel="stylesheet" type="text/css" href="css/style.css">
@@ -13,7 +13,7 @@
 	<body>
 		
 		<!-- Main Block -->
-		<div class="main">
+		<div class="main bg3">
 			
 			<!-- Nav -->
 			<nav>
@@ -23,8 +23,8 @@
 			
 			<!-- Header -->
 			<header>
-				<h1>FlexBox</h1>
-				<h3>Aprendiendo todo sobre la nueva etiqueta</h3>
+				<img src="images/macbook.png" />
+				<h3>Mac Store</h3>
 			</header>
 			<!-- Finished Header -->
 

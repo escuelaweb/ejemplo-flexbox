@@ -1,5 +1,11 @@
  /* Including normalizer, stadart css */
  @import url("normalize.css");
 
-body{
-}
+
+/* Maqueta de colores */
+.bg1{ background: #8A0E27; }
+.bg2{ background: #DED316; }
+.bg3{ background: #D6002B; }
+.bg4{ background: #107AA3; }
+.bg5{ background: #07658A; }
+.bg6{ background: #EEEEEE; }

@@ -6,6 +6,7 @@
 
 		<!-- Includes styles -->
 		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/intro.css">
 
 		<!-- Includes metas -->
 		<meta charset="UTF-8">
@@ -25,8 +26,8 @@
 
 			<!-- Nav -->
 			<nav class="flex margin2">
-				<a href="#" class="bg1 margin1 padding1">Website</a>
-				<a href="#" class="bg1 margin1 padding1">Store</a>
+				<a href="website.html" class="bg1 margin1 padding1">Website</a>
+				<a href="dashboard.html" class="bg1 margin1 padding1">Store</a>
 			</nav>
 			<!-- Finished Nav -->
 

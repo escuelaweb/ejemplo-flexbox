@@ -6,11 +6,26 @@
 
 header h1{
 	font-size: 34pt;
+	-webkit-animation-delay: 0.4s;
+	-moz-animation-delay: 0.4s;
+	animation-delay: 0.4s;
+}
+
+header h3{
+	-webkit-animation-delay: 0.7s;
+	-moz-animation-delay: 0.7s;
+	animation-delay: 0.7s;
 }
 
 header h1, header h3{
 	color: #EEEEEE;
 	margin-top: -1em;
+}
+
+nav{
+	-webkit-animation-delay: 0.9s;
+	-moz-animation-delay: 0.9s;
+	animation-delay: 0.9s;
 }
 
 nav a{
@@ -23,6 +38,9 @@ nav a{
 
 .logo{
 	width: 95%;
+	-webkit-animation-delay: 0.2s;
+	-moz-animation-delay: 0.2s;
+	animation-delay: 0.2s;
 }
 
 footer{

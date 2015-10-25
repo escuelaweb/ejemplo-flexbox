@@ -1,0 +1,54 @@
+.main{
+	width: 100%;
+	font-family: "Folks";
+}
+
+header{
+}
+
+header h1{
+	font-size: 16pt;
+	margin-top: 1.2em;
+	color: #FFFFFF;
+}
+
+.logo{
+	width: 80px;
+	height: 80px;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+nav{
+	padding: 0px 30px;
+}
+
+nav a{
+	text-decoration: none;
+	color: #EEEEEE;
+	font-size: 12pt;
+	border-radius: 10pt;
+	width: 80px;
+}
+
+.input-form{
+	width: 800px;
+	background: #FFFFFF;
+	border: 0;
+	border-radius: 4pt;
+	margin-left: 20px;
+}
+
+.options{
+	width: 16.4%;
+	height: 540px;
+	border-radius: 6pt;
+}
+
+.title-options {
+	border-radius: 6pt 6pt 0 0;
+	padding: 0.5em;
+	margin: 0;
+	font-size: 12pt;
+	color: #EEEEEE;
+}

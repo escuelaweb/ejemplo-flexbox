@@ -1,0 +1,29 @@
+.flex{ display: flex; } /* Define un elemento como tipo flex */
+.flex-row{ flex-direction: row; } /* Organiza los elementos hijos del elemento uno al lado del otro */
+.flex-column{ flex-direction: column; } /* Organiza los elementos hijos del elemento uno debajo del otro */
+.flex-grow1{ flex-grow: 1; } /* Define el tamaño de los elementos hijos basa */
+.flex-grow2{ flex-grow: 2; } /* Define el tamaño de los elementos en ralación 2 a 1 como muestra el ejemplo */
+
+/* Separador */
+.separator{ margin-top: 1em; }
+
+/* Efectos de tamaño de los div */
+.row{ width: 100%; }
+.grid-test{ width: 18% }
+
+/* Egectos de posicionamiento del texto */
+.text-center{ text-align: center; }
+.text-left{ text-align: left; }
+
+a{
+	background: #EEEEEE;
+	color: #4d4d4d;
+	padding: 1em;
+	order: 2;
+}
+
+.active{
+	background: #4D4D4D;
+	color: #FFFFFF;
+	order: 1;
+}
